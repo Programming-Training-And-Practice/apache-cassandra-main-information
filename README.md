@@ -1,4 +1,4 @@
-# Apache Cassandra Main Information.
+# Apache Cassandra.
 
 
 
